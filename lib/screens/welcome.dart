@@ -1,7 +1,6 @@
 import 'package:booksi/screens/home.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
-import 'package:google_fonts/google_fonts.dart';
 
 class Welcome extends StatelessWidget {
   Welcome({Key key, this.title}) : super(key: key);
